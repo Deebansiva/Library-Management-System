@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "category": "Fiction"
+    },
+    {
+      "id": "2",
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "category": "Programming"
+    },
+    {
+      "id": "3",
+      "title": "Python Data Science",
+      "author": "Jake VanderPlas",
+      "category": "Data Science"
+    }
+  ]
+}
